@@ -2,4 +2,4 @@
 
 Projeto desenvolvido junto com o curso de Javascript da plataforma B7Web
 
-Link do site ->
+Link do site -> https://rafaelfusco.github.io/Projeto-Pizzaria/
